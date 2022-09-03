@@ -69,8 +69,8 @@ body {
   border-radius: 100%;
 }*/
 .player .cover {
-  width: 430px;
-  height: 340px;
+  width: 330px;
+  height: 240px;
   overflow: hidden;
   position: absolute;
   left: 50%;
